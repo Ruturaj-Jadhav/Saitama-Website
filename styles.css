@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 65px;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 5px;
+  color: black;
+}
+h3{
+  font-size: 22px;
+}
+
+
+
+h2 {
+  font-size: 40px;
+  color: black;
+}
+.s1{
+  font-size: 40px;
+  margin-bottom: 100px;
+  color: black;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 35px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#xy {
+  text-decoration: none;
+}
+
+.class-2 {
+  border-style: none;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 12px;
+  width: 20%;
+}
+.boldhr{
+  border-style: solid;
+  border-width : 3px;
+}
+
+
+.top-container{
+  position: relative;
+  padding-top:140px;
+  margin-bottom: 60px;
+}
+
+.skill-row1{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 120px;
+
+  text-align: left;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+
+}
+.bottom-container{
+  margin-top: 100px;
+}
+.profile{
+  text-align: center;
+  margin-top: 100px;
+  width: 50%;
+  margin: auto;
+}
+.saitama{
+  float: inherit;
+  width: 25%;
+}
+.contact-me{
+  width: 50%;
+  margin: auto;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 170px;
+  top: 250px
+}
+.top-cloud{
+  position: absolute;
+  right: 170px;
+  top: 100px
+}
+.skill1{
+  float: left;
+  margin-top: 10px;
+  margin-right: 20px;
+  width: 25%;
+}
+.move{
+  margin-top: 10px;
+}
+.skill2{
+  float: right;
+  margin-left: 20px;
+  width: 25%;
+}
+span {
+  text-decoration-line: underline;
+}
+.mountain{
+  width : 55%;
+}
+
+.centre {
+  text-align: center;
+  margin-top: 100px;
+}
